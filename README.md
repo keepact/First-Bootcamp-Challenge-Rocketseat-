@@ -1,13 +1,13 @@
 # NodeJS-First-Bootcamp-Challenge-Rocketseat
 Rocketseat 2019 Bootcamp First Challenge
 
-## Axios
+## Express Project
 
 This challenge was preparatory to development of a Gym application.
 
-## Tools used:
+## libs used:
   
-Express & Axios
+ Axios
 
  ## Javascript Project:
  
