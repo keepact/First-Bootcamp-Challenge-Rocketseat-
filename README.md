@@ -26,3 +26,4 @@ You will see any errors in the console.
 ## Learn More
 
 To learn React, check out the [Bootcamp documentation](https://rocketseat.com.br).
+To see the Challange, check out the [Challange documentation](https://github.com/Rocketseat/bootcamp-gostack-desafio-01/blob/master/README.md#desafio-01-conceitos-do-nodejs).
