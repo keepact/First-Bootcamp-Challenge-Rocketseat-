@@ -1,9 +1,10 @@
-# NodeJS-First-Bootcamp-Challenge-Rocketseat
-Rocketseat 2019 Bootcamp First Challenge
+# Node-Rocketseat
+
+Application developed during Rocketseat Bootcamp 9
 
 ## Express Project
 
-CRUD introduction application
+<strong>CRUD</strong> (Create, Read, Update and Delete) introduction application
 
 ## libs used:
   
