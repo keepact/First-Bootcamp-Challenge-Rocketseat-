@@ -3,7 +3,7 @@ Rocketseat 2019 Bootcamp First Challenge
 
 ## Express Project
 
-This challenge was preparatory to development of a Gym application.
+CRUD introduction application
 
 ## libs used:
   
@@ -11,13 +11,13 @@ This challenge was preparatory to development of a Gym application.
 
  ## Javascript Project:
  
- Node.js
+ Node
 
 ## Scripts
 
 In the project directory, you can run:
 
-### `yarn start`
+### `yarn install`
 
 Runs the app in the development mode.<br />
 
@@ -25,5 +25,4 @@ You will see any errors in the console.
 
 ## Learn More
 
-To learn React, check out the [Bootcamp documentation](https://rocketseat.com.br).<br />
 To see the Challange, check out the [Challange documentation](https://github.com/Rocketseat/bootcamp-gostack-desafio-01/blob/master/README.md#desafio-01-conceitos-do-nodejs).
