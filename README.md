@@ -2,13 +2,13 @@
 
 Application developed during Rocketseat Bootcamp 9
 
-## Express Project
+## What is this application about?
 
 <strong>CRUD</strong> (Create, Read, Update and Delete) introduction application
 
 ## libs used:
   
- Axios
+ express and axios
 
  ## Javascript Project:
  
