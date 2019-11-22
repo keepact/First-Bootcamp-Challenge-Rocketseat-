@@ -4,7 +4,7 @@ Application developed during Rocketseat Bootcamp 9
 
 ## What is this application about?
 
-<strong>CRUD</strong> (Create, Read, Update and Delete) introduction application
+<strong>CRUD</strong> (Create, Read, Update and Delete) introduction
 
 ## libs used:
   
